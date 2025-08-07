@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello, I'm Gino Christian Arellano!
 
-<!--
-**ginoarellano/ginoarellano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSIT student at Quezon City University  
+🛠️ Building projects in Web Dev, IoT, and InfoSec  
+📍 Currently exploring GitHub & learning version control  
+🌱 Capstone Dev | Arduino Builder | Future Software Engineer
 
-Here are some ideas to get you started:
+## 🚀 Projects I'm working on:
+- Smart Motion Sensor Security System using ESP32
+- Barangay Employee Information System (Capstone)
+- Food Delivery App – “Korphil”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I'm still learning — but I'm consistent. Watch my journey! 🚧💡
