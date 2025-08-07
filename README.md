@@ -6,7 +6,7 @@
 🌱 Capstone Dev | Arduino Builder | Future Developer
 
 ## 🚀 Projects I'm working on:
-- Smart Motion Sensor Security System using ESP8266 (IoT and Software Development)
+- Smart Motion Sensor Security System using ESP8266 (IoT Connectivity)
 - Barangay Management System - "Administrator" (Front End Developing)
 - Food Delivery App – “Korphil” - (UI/UX Designing)
 
