@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Gino Christian Arellano!
+# 👋 Hello, I'm Gino!
 
 - BSIT student at Quezon City University  
 - Building projects in Web Dev, IoT, and InfoSec  
@@ -10,4 +10,4 @@
 - Barangay Management System - "Administrator" (Front End Developing)
 - Food Delivery App – “Korphil” - (UI/UX Designing)
 
-> I'm still learning but I am consistent. Watch my journey! 
+> I'm still learning!
