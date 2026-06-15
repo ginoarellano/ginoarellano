@@ -1,13 +1,22 @@
-# 👋 Hello, I'm Gino!
+👋 Hello, I'm Gino!
+🎓 Education: BS Information Technology Graduate (Quezon City University)
 
-- BSIT student at Quezon City University  
-- Building projects in Web Dev, IoT, and InfoSec  
-- Currently exploring GitHub & learning version control  
-- Capstone Dev | Arduino Builder | Future Developer
+💻 Tech Stack: Proficient in Web Development, IoT, and Cybersecurity.
 
-## 🚀 Projects I'm working on:
-- Smart Motion Sensor Security System using ESP8266 (IoT Connectivity)
-- Barangay Management System - "Administrator" (Front End Developing)
-- Food Delivery App – “Korphil” - (UI/UX Designing)
+🛠️ Focused on: Building secure, functional, and user-centric applications.
 
-> I'm still learning!
+🌟 Key Technical Projects
+CRYPT-NATIN: An interactive cryptographic web application featuring Baybayin-inspired encryption and decryption protocols.
+
+Smart Motion-Activated Security System: IoT-based security solution utilizing Arduino and real-time alerts.
+
+TRASHURE: Automated Recyclable Waste Verification with Points Allocation and Reward System.
+
+🎖️ Certifications & Seminars
+IBM SkillsBuild: AI Fundamentals (2026)
+
+Cisco Networking Academy: Network Defense & Cybersecurity Essentials
+
+Professional Development: Alibaba Cloud System Masterclass & Ethical Hacking Seminar
+
+Always learning, building, and securing.
